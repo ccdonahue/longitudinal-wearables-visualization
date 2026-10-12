@@ -10,6 +10,14 @@ This repository demonstrates reusable Python functions for exploring and communi
 
 All example data are synthetic.
 
+## Example Visualization
+
+The figure below demonstrates aligned longitudinal measurements of sleep duration, heart rate variability (HRV), and daily steps for a fictional participant. Each variable is displayed on a separate axis, with missing observations preserved as gaps.
+
+![Example multivariable wearable visualization](figures/synthetic_multivariable_P001.png)
+
+*All measurements are synthetic and intended for demonstration purposes only.*
+
 ## Visualization Capabilities
 
 | Module | Functionality |
